@@ -84,12 +84,18 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-},
+  },
   "custom_category": [
     {
-      "name": "华语",
+      "name": "哈利波特",
       "type": "movie",
-      "query": "华语"
+      "query": "哈利波特"
+  },
+  "custom_category": [
+    {
+      "name": "日本动画",
+      "type": "tv",
+      "query": "日本动画"
     }
   ]
 }
